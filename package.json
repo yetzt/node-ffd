@@ -1,0 +1,25 @@
+{
+  "name": "ffd",
+  "version": "0.0.1",
+  "description": "find a file among directories",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yetzt/node-ffd.git"
+  },
+  "keywords": [
+    "file",
+    "find",
+    "dir",
+    "directories",
+    "path",
+    "paths",
+    "fs"
+  ],
+  "author": "yetzt <node@yetzt.me>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/yetzt/node-ffd/issues"
+  },
+  "homepage": "https://github.com/yetzt/node-ffd#readme"
+}

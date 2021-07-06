@@ -13,5 +13,4 @@ ffd("passwd", ["/usr/local","/etc","/tmp"], function(file){
 		console.log("The file was found in %s", file);
 	}
 })
-
 ```
